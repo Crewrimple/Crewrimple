@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
 Я начинающий full stack разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы, я пробовал себя во многих направлениях но больше всего меня понравился PHP и я активно работаю над этом!
 
