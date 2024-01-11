@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td>
-     <p align="left"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=Crewrimple&show_icons=true&theme=monokai&count_private=true" 
+     <p align="left"><img width="110%" src="https://github-readme-stats.vercel.app/api?username=Crewrimple&show_icons=true&theme=monokai&count_private=true" 
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Crewrimple&layout=compact&theme=vision-friendly-dark" />
