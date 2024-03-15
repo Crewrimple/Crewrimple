@@ -12,7 +12,7 @@
 
 ### 🤝 Социальные сети:
    </a>
-    <a href="https://t.me/netronic19" target="_blank">
+    <a href="https://t.me/netronic20" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="мой телеграм" />
     </a>
     <a href="https://vk.com/fedya_1337" target="_blank">
