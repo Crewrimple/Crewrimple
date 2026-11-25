@@ -38,11 +38,19 @@
 
 <table>
   <tr>
-    <td>
-     <p align="left"><img width="170%"  src="https://github-readme-stats.vercel.app/api?username=Crewrimple&show_icons=true&theme=monokai&count_private=true" 
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=Crewrimple&show_icons=true&theme=monokai&count_private=true"
+        alt="GitHub Stats"
+      />
     </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Crewrimple&layout=compact&theme=vision-friendly-dark" />
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crewrimple&layout=compact&theme=vision-friendly-dark"
+        alt="Most Used Languages"
+      />
     </td>
   </tr>
 </table>
