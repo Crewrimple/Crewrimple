@@ -41,7 +41,7 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="60%" align="center">
       <img
         width="100%"
         src="https://github-readme-stats.vercel.app/api?username=Crewrimple&show_icons=true&theme=monokai&count_private=true"
