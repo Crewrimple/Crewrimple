@@ -36,25 +36,27 @@
 ---
 
 
+
 ### ⚙️ GitHub статистика:
 
-<div align="center">
-
-  <img
-    width="100%"
-    src="https://github-readme-stats.vercel.app/api?username=Crewrimple&show_icons=true&theme=monokai&count_private=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <br/>
-
-  <img
-    width="100%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crewrimple&layout=compact&theme=monokai&hide_border=true&langs_count=10"
-    alt="Most Used Languages"
-  />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=Crewrimple&show_icons=true&theme=monokai&count_private=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crewrimple&layout=compact&theme=vision-friendly-dark"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
